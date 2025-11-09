@@ -1,10 +1,8 @@
-# AI Study Companion - MVP
+# AI Study Partner
 
 An AI-powered study companion with concept maps, focus monitoring, and adaptive chat features.
 
-## 🚀 Features
 
-### ✅ Implemented Features
 
 1. **Three-Panel Modern UI Layout**
    - Left Panel: AI Chat Agent (Groq API integration)
@@ -159,32 +157,6 @@ To use real YouTube API:
 - [ ] Offline mode
 - [ ] Mobile app version
 
-## 🐛 Known Issues
-
-1. Webcam requires HTTPS in production
-2. Speech recognition may not work in all browsers
-3. Mediapipe models load from CDN (requires internet)
-4. YouTube API currently uses mock data
-
-## 📱 Browser Compatibility
-
-- Chrome 80+ (recommended)
-- Firefox 75+
-- Safari 13+
-- Edge 80+
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
 ## 🏆 Hackathon Features
 
 This MVP includes several standout features for hackathon presentation:
@@ -195,5 +167,3 @@ This MVP includes several standout features for hackathon presentation:
 4. **Voice Interface**: Hand raise detection + speech-to-text
 5. **Focus Monitoring**: Distraction detection with audio alerts
 6. **Modern UI**: Professional design with animations and effects
-
-The combination of AI, computer vision, and interactive learning makes this a compelling study companion application.
